@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from 'react';
 import Modal from './Modal';
-import EmailModal from './EmailModal';
+import EmailModal from './emailModal';
 import MobileModal from './MobileModal';
 import OtpModal from './OtpModal';
 import SignupModal from './SignupModal';
